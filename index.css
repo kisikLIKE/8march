@@ -1,0 +1,9 @@
+.body {
+    margin: 0;
+    display: flex;
+}
+
+.doska {
+    margin: 0 auto;
+    width: 965px;
+}
